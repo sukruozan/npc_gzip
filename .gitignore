@@ -1,4 +1,7 @@
 __pycache__/
+step*/
+step*/*
 text_exp_output/
 test.txt
 train.txt
+data*.py
